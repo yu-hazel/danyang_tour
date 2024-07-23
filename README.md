@@ -75,12 +75,18 @@
 
 ## 🖼️ 디바이스별 반응형 UI
 
-![danyang](https://github.com/user-attachments/assets/cf6f1b4f-ef73-4059-961b-0e1f5637a40f) | ![danyang_tab](https://github.com/user-attachments/assets/f8abf5da-3694-4231-8050-996367ab3529) | ![danyang_mo](https://github.com/user-attachments/assets/684aea78-ecdf-4138-bd95-8169e45e2424)
---- | --- | --- |
+<div>
+  <img src="https://github.com/user-attachments/assets/cf6f1b4f-ef73-4059-961b-0e1f5637a40f" width="40%" align="top">
+  <img src="https://github.com/user-attachments/assets/f8abf5da-3694-4231-8050-996367ab3529" width="33%" align="top">
+  <img src="https://github.com/user-attachments/assets/684aea78-ecdf-4138-bd95-8169e45e2424" width="25%" align="top">
+</div>
+<br>
+<div>
+  <img src="https://github.com/user-attachments/assets/600aee35-251c-433d-b1c5-bd89065683ac" width="40%" align="top">
+  <img src="https://github.com/user-attachments/assets/e0d83711-d63e-4058-b81d-a54e8ae3b692" width="33%" align="top">
+  <img src="https://github.com/user-attachments/assets/4f83ba5e-d00b-48dd-81e7-87a27141e0ef" width="25%" align="top">
+</div>
 
-
-![image](https://github.com/user-attachments/assets/600aee35-251c-433d-b1c5-bd89065683ac) | ![image](https://github.com/user-attachments/assets/e0d83711-d63e-4058-b81d-a54e8ae3b692) | ![image](https://github.com/user-attachments/assets/4f83ba5e-d00b-48dd-81e7-87a27141e0ef)
---- | --- | --- |
 
 
 
